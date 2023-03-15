@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DD_Login Akun</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0bd6e75b-e4ec-465d-aa69-84868ced5025</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>090719c6-9a4f-4fa7-b908-76f0058d8572</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f18d8fa1-39bf-4c7d-82bf-8f10f2cf3884</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>090719c6-9a4f-4fa7-b908-76f0058d8572</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f18d8fa1-39bf-4c7d-82bf-8f10f2cf3884</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
