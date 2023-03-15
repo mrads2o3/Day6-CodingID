@@ -23,7 +23,7 @@ WebUI.navigateToUrl('https://www.saucedemo.com/')
 
 WebUI.setText(findTestObject('Object Repository/Login_Page/Login_Input_Username'), 'standard_user')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Login_Page/Login_Input_Password'), '70ERz4oqa/bjgxC6DybIgQ==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Login_Page/Login_Input_Password'), 'qcu24s4901FyWDTwXGr6XA==')
 
 WebUI.click(findTestObject('Object Repository/Login_Page/Login_Button_Login'))
 
